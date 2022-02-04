@@ -1,0 +1,37 @@
+.negative-margin {
+    margin-top: -150px;
+}
+
+p, h6{
+    color: #E0FFFF;
+}
+
+p{
+    font-size: 12px;
+}
+
+.bg-custom{
+    background-color: #008986;
+}
+
+.rounded {
+    border-radius: 7px;
+}
+
+@media screen and (max-width: 992px) {
+    .cards {
+        width: 100%;
+        display: block;
+        margin: 0;
+        padding: 0;
+    }
+
+    .card {
+        margin: 10px 0 10px 0;
+    }
+
+    .negative-margin {
+        margin: 0 auto;
+
+    }
+}
