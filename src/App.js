@@ -7,7 +7,7 @@ import './index.css';
 import Header from './Header/header';
 import Footer from './Footer/footer';
 import Article from './Article/article';
-import Cards from './components/article-1/cards';
+import Cards from './Article/cards';
 
 function App() {
   return (
