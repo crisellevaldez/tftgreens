@@ -9,7 +9,7 @@ function Footer() {
             <Container>
                 <Row>
                     <Navbar bg="dark" expand="lg" className="nav">
-                        <Col> <Navbar.Brand href="#home" style={{ color: '#FFFFFF', }}>Coffee Roasters</Navbar.Brand></Col>
+                        <Col> <Navbar.Brand href="#home" style={{ color: '#FFFFFF', marginLeft: '20px' }}>Coffee Roasters</Navbar.Brand></Col>
                         <Navbar.Toggle />
                         <Navbar.Collapse>
                             <Col>
