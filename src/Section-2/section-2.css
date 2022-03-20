@@ -1,0 +1,30 @@
+.section2-container {
+    height: 500px;
+    border-radius: 9px;
+}
+h1 {
+    font-size: 50px;
+}
+
+h1, .p-section2 {
+    color: #FAFDF8;
+}
+
+.p-article {
+    color: #636568;
+}
+
+.section2-button {
+    background-color: #008986;
+    color: #E0FFFF;
+}
+
+.section2{
+    padding-top: 150px;
+}
+
+@media screen and (max-width: 992px) {
+    .section2{
+        padding-top: 60px;
+    }
+}

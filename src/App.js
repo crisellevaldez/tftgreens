@@ -8,12 +8,14 @@ import Header from './Header/header';
 import Footer from './Footer/footer';
 import Article from './Article/article';
 import Section from './Section/section';
+import Section2 from './Section-2/section-2';
 import Cards from './Article/cards';
 
 function App() {
   return (
     <div className="App">
       <Header />
+      <Section2 />
       <Article />
       <Cards />
       <Section />

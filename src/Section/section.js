@@ -6,8 +6,8 @@ function Section() {
     return (
         <Container>
             <Row>
-                <Stack direction="horizontal" gap={3} className="col-md-12 mx-auto">      
-                    <Stack className="rounded p-4 pt-5">
+                <Stack direction="horizontal" gap={3} className="col-md-12 mx-auto pt-5 pb-5 cards">      
+                    <Stack className="card border-0 rounded p-4 pt-5">
                         <div className="mx-auto mb-3"> 
                             <img src={logo} alt="Logo" width="100" />
                         </div>
@@ -15,7 +15,7 @@ function Section() {
                         <p className="text-center p-section"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consequat pharetra accumsan. Vivamus ultricies tincidunt ligula, nec hendrerit diam iaculis eget. </p>
                     </Stack>
 
-                    <Stack className="rounded p-4 pt-5 pb-5">
+                    <Stack className="card border-0 rounded p-4 pt-5 pb-5">
                         <div className="mx-auto mb-3"> 
                             <img src={logo} alt="Logo" width="100" />
                         </div>
@@ -23,7 +23,7 @@ function Section() {
                         <p className="text-center p-section"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consequat pharetra accumsan. Vivamus ultricies tincidunt ligula, nec hendrerit diam iaculis eget. </p>
                     </Stack>
 
-                    <Stack className="rounded p-4 pt-5 pb-5">
+                    <Stack className="card border-0 rounded p-4 pt-5 pb-5">
                         <div className="mx-auto mb-3"> 
                             <img src={logo} alt="Logo" width="100" />
                         </div>
@@ -31,7 +31,7 @@ function Section() {
                         <p className="text-center p-section"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consequat pharetra accumsan. Vivamus ultricies tincidunt ligula, nec hendrerit diam iaculis eget. </p>
                     </Stack>
 
-                    <Stack className="rounded p-4 pt-5 pb-5">
+                    <Stack className="card border-0 rounded p-4 pt-5 pb-5">
                         <div className="mx-auto mb-3"> 
                             <img src={logo} alt="Logo" width="100" />
                         </div>
