@@ -6,8 +6,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 import Header from './Header/header';
 import Footer from './Footer/footer';
-import Article from './components/article-1/article';
-import Cards from './components/article-1/cards';
+import Article from './Article/article';
+import Cards from './Article/cards';
 
 function App() {
   return (
