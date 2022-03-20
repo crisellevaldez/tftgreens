@@ -7,7 +7,7 @@ function Cards() {
     return (
         <Container className="negative-margin">
             <Row>
-                <Stack direction="horizontal" gap={3} className="col-md-8 mx-auto cards-container">      
+                <Stack direction="horizontal" gap={3} className="col-md-8 mx-auto cards">      
                     <Stack className="card bg-custom rounded p-4 pt-5">
                         <div className="mx-auto mb-2"> 
                             <FontAwesomeIcon icon={faMugHot} size="3x" color="#FFD4B5" />

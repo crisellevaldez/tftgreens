@@ -7,6 +7,7 @@ import './index.css';
 import Header from './Header/header';
 import Footer from './Footer/footer';
 import Article from './Article/article';
+import Section from './Section/section';
 import Cards from './Article/cards';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
     <div className="App">
       <Header />
       <Article />
+      <Section />
       <Cards />
       <Footer />
     </div>
