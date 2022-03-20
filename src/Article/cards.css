@@ -2,11 +2,11 @@
     margin-top: -150px;
 }
 
-p, h6{
+.p-cards, .h6-cards{
     color: #E0FFFF;
 }
 
-p{
+.p-cards{
     font-size: 12px;
 }
 
