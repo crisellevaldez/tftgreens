@@ -15,7 +15,7 @@ p{
 }
 
 .rounded {
-    border-radius: 7px;
+    border-radius: 9px;
 }
 
 @media screen and (max-width: 992px) {
@@ -26,12 +26,11 @@ p{
         padding: 0;
     }
 
-    .card {
+    .card-container {
         margin: 10px 0 10px 0;
     }
 
     .negative-margin {
         margin: 0 auto;
-
     }
 }
