@@ -23,7 +23,10 @@ function Section() {
                 have a cold drink <br />
                 with friends to handle the stress of life.
               </p>
-              <button className="btn section2-button"> Inquire Now</button>
+              <a className="btn section2-button" href="#inquire">
+                {" "}
+                Inquire Now
+              </a>
             </div>
           </div>
         </div>
