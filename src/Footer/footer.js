@@ -42,13 +42,13 @@ function Footer() {
                   href="https://www.facebook.com/tastesfromthegreens"
                   className="facebook-icon"
                 >
-                  <FontAwesomeIcon icon={faFacebook} color="black" />
+                  <FontAwesomeIcon icon={faFacebook} color="green" />
                 </Nav.Link>
                 <Nav.Link href="#twitter" className="twitter-icon">
-                  <FontAwesomeIcon icon={faTwitter} color="black" />
+                  <FontAwesomeIcon icon={faTwitter} color="green" />
                 </Nav.Link>
                 <Nav.Link href="#instagram" className="instagram-icon">
-                  <FontAwesomeIcon icon={faInstagram} color="black" />
+                  <FontAwesomeIcon icon={faInstagram} color="green" />
                 </Nav.Link>
               </Nav>
               <div className="logo">
