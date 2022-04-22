@@ -1,9 +1,42 @@
-.footer{ margin-top: 1rem; padding: 1rem; position: fixed; bottom: 0; left: 0; width: 100%; }
-
-.nav {
-    height: 100px;
+.nav-footer {
+  bottom: 0;
+  width: 100%;
 }
 
 .nav-center {
-    text-align: justify-align-center;
+  text-align: justify-align-center;
+}
+
+.text-black {
+  margin-top: 20px;
+}
+
+.footer-logo {
+  height: 200px;
+}
+
+.logo {
+  text-align: left;
+  justify-content: left;
+}
+
+.sub-details {
+  margin-bottom: 0px;
+  margin-top: 0px;
+  color: black;
+}
+
+@media screen and (max-width: 992px) {
+  .logo {
+    margin-top: -60px;
+  }
+}
+
+@media screen and (max-width: 414px) {
+  .text-black {
+    font-size: 12px;
+  }
+  .sub-details {
+    font-size: 12px;
+  }
 }

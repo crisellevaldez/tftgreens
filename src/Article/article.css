@@ -1,20 +1,23 @@
 .article-container {
-    padding-bottom: 200px;
-    padding-top: 80px;
-    border-radius: 9px;
+  padding-bottom: 200px;
+  padding-top: 80px;
+  border-radius: 9px;
 }
 
 h4 {
-    color: #FAFDF8;
+  color: black;
 }
 
 .p-article {
-    color: #636568;
+  color: black !important;
+  font-weight: 700;
+  text-align: justify;
+  line-height: 30px;
 }
 
 @media screen and (max-width: 992px) {
-    .article-container {
-        padding-bottom: 80px;
-        padding-top: 80px;
-    }
+  .article-container {
+    padding-bottom: 80px;
+    padding-top: 80px;
+  }
 }

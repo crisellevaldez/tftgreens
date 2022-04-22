@@ -1,36 +1,48 @@
 .negative-margin {
-    margin-top: -150px;
+  margin-top: -150px;
 }
 
-.p-cards, .h6-cards{
-    color: #E0FFFF;
+.p-cards,
+.h6-cards {
+  color: #e0ffff;
 }
 
-.p-cards{
-    font-size: 12px;
+.cards {
+  width: 60em;
 }
 
-.bg-custom{
-    background-color: #008986;
+.p-cards {
+  font-size: 14px;
+  height: auto;
+  width: 250px;
+  padding: 0px 25px 0px 10px;
+}
+
+.bg-custom {
+  background-color: #008986;
 }
 
 .rounded {
-    border-radius: 9px;
+  border-radius: 9px;
 }
 
-@media screen and (max-width: 992px) {
-    .cards {
-        width: 100%;
-        display: block;
-        margin: 0;
-        padding: 0;
-    }
+@media screen and (max-width: 1001px) {
+  .cards {
+    width: 100%;
+    display: block;
+    margin: 0;
+    padding: 0;
+  }
 
-    .card {
-        margin: 10px 0 10px 0;
-    }
+  .card {
+    margin: 10px 0 10px 0;
+  }
 
-    .negative-margin {
-        margin: 0 auto;
-    }
+  .card-icon {
+    margin-left: 10px;
+  }
+
+  .negative-margin {
+    margin: 0 auto;
+  }
 }

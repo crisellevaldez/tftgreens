@@ -1,3 +1,7 @@
 .header {
-    color: #5E6770;
+  color: #5e6770;
+}
+
+.nav-header {
+  height: 100px;
 }
