@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/tftgreens/static/css/main.a2bddf8c.chunk.css",
+    "main.js": "/tftgreens/static/js/main.efdd36b6.chunk.js",
+    "main.js.map": "/tftgreens/static/js/main.efdd36b6.chunk.js.map",
+    "runtime-main.js": "/tftgreens/static/js/runtime-main.d18188ca.js",
+    "runtime-main.js.map": "/tftgreens/static/js/runtime-main.d18188ca.js.map",
+    "static/css/2.2598ee71.chunk.css": "/tftgreens/static/css/2.2598ee71.chunk.css",
+    "static/js/2.7f80fe0d.chunk.js": "/tftgreens/static/js/2.7f80fe0d.chunk.js",
+    "static/js/2.7f80fe0d.chunk.js.map": "/tftgreens/static/js/2.7f80fe0d.chunk.js.map",
+    "static/js/3.bdacf8be.chunk.js": "/tftgreens/static/js/3.bdacf8be.chunk.js",
+    "static/js/3.bdacf8be.chunk.js.map": "/tftgreens/static/js/3.bdacf8be.chunk.js.map",
+    "index.html": "/tftgreens/index.html",
+    "static/css/2.2598ee71.chunk.css.map": "/tftgreens/static/css/2.2598ee71.chunk.css.map",
+    "static/css/main.a2bddf8c.chunk.css.map": "/tftgreens/static/css/main.a2bddf8c.chunk.css.map",
+    "static/js/2.7f80fe0d.chunk.js.LICENSE.txt": "/tftgreens/static/js/2.7f80fe0d.chunk.js.LICENSE.txt",
+    "static/media/chocomalt-menu.e21708c1.png": "/tftgreens/static/media/chocomalt-menu.e21708c1.png",
+    "static/media/coffee-menu.faafa998.png": "/tftgreens/static/media/coffee-menu.faafa998.png",
+    "static/media/dark-chocolate-menu.6ad759cc.jpg": "/tftgreens/static/media/dark-chocolate-menu.6ad759cc.jpg",
+    "static/media/darkchoco-menu.ba45df99.png": "/tftgreens/static/media/darkchoco-menu.ba45df99.png",
+    "static/media/strawchoco-menu.34d7d6c0.png": "/tftgreens/static/media/strawchoco-menu.34d7d6c0.png",
+    "static/media/taste.09e59fb8.png": "/tftgreens/static/media/taste.09e59fb8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d18188ca.js",
+    "static/css/2.2598ee71.chunk.css",
+    "static/js/2.7f80fe0d.chunk.js",
+    "static/css/main.a2bddf8c.chunk.css",
+    "static/js/main.efdd36b6.chunk.js"
+  ]
+}
